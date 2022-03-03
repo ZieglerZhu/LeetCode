@@ -25,10 +25,13 @@ class Solution
 int main()
 {
     // Solution test;
-    // int num[] = {2,7,11,15};
-    // vector<int> nums(4,num[0]);
+    // vector<int> nums={2,7,11,15};
     // int target = 9;
-    // test.twoSum(nums,target);
-
-    return 0;
+    // vector<int> result=test.twoSum(nums,target);
+    // for (auto i : result)
+    // {
+    //     cout<<i<<endl;
+    // }
+    
+    // return 0;
 }
